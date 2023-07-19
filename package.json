@@ -1,0 +1,19 @@
+{
+  "name": "webcrawler-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --no-warnings ./scripts/main.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  },
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "jsdom": "^22.1.0"
+  }
+}
